@@ -105,6 +105,8 @@ const USER_CONFIG = {
           // 该日期是否为单周
           isOdd: true
         }
+      }
+    }
   ],
 
   /**
