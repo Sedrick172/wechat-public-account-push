@@ -31,7 +31,7 @@ const USER_CONFIG = {
     // 金山每日一句
     CIBA: false,
     // 每日一言
-    oneTalk: false,
+    oneTalk: true,
     // 土味情话(彩虹屁)
     earthyLoveWords: true,
     // 朋友圈文案
@@ -114,7 +114,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oxq8L63JfubvKG2w0lm4DfmjdPy0',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: 'vvd6fyzbSwpq-v4YXs2sdoRe1a0eOMARUMO6oXMeiDg',
+      useTemplateId: 'tHYg71f393A6YtlhwrQVcQrkhvybXAWnCp-qM9jH6lc',
       // 所在省份
       province: '北京',
       // 所在城市
