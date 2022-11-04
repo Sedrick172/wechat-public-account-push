@@ -37,9 +37,9 @@ const USER_CONFIG = {
     // 朋友圈文案
     momentCopyrighting: false,
     // 毒鸡汤
-    poisonChickenSoup: false,
+    poisonChickenSoup: true,
     // 古诗古文
-    poetry: false,
+    poetry: true,
 
     /** 星座运势 */
     horoscope: true,
@@ -65,9 +65,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '子琳',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oxq8L63JfubvKG2w0lm4DfmjdPy0',
+      id: ['oxq8L63JfubvKG2w0lm4DfmjdPy0', 'oxq8L62s72JcDjM-jbmqvXo9ykZ0'],
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: 'JfLN-fChn5r4jr5oPk8H1HV-dX2ljkNq0gkE-nzYUGA',
+      useTemplateId: 'X6gVNteVNoDxZvWc6_USrHR812ETYlm-GD3RAjaFFF8',
       // 所在省份
       province: '北京',
       // 所在城市
@@ -198,7 +198,7 @@ const USER_CONFIG = {
    * */
   SLOT_LIST: [
     // 这样配置的话，就会每次发送这句话
-    { keyword: 'encourage_oneself', contents: '今天又是新一天，爱子琳mua~' },
+    { keyword: 'love_zl', contents: '今天又是新一天，爱子琳mua~' },
     // 这样配置的话，就会每次随机选一句话发送
     {
       keyword: 'lover_prattle',
