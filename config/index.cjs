@@ -65,7 +65,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '子琳',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oxq8L62s72JcDjM-jbmqvXo9ykZ0',
+      id: 'oxq8L62s72JcDjM-jbmqvXo9yk',
       // 你想对他发送的模板消息的模板ID
       useTemplateId: 'X6gVNteVNoDxZvWc6_USrHR812ETYlm-GD3RAjaFFF8',
       // 所在省份
@@ -114,7 +114,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oxq8L63JfubvKG2w0lm4DfmjdPy0',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: 'X6gVNteVNoDxZvWc6_USrHR812ETYlm-GD3RAjaFFF8',
+      useTemplateId: 'vvd6fyzbSwpq-v4YXs2sdoRe1a0eOMARUMO6oXMeiDg',
       // 所在省份
       province: '北京',
       // 所在城市
